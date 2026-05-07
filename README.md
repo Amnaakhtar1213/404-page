@@ -25,18 +25,17 @@ This page is displayed when a user navigates to a non‑existent route.
 
 ## How to Run ✨
 
---------------------
 
 ## SCREENSHOTS 📸
 
 Here's what the page look like
-- [404-page screenshot](ss.png)
+- [404-page screenshot](SS.png)
 
 ----------------------------
 
 ## LIVE DEMO 🌐
 
-- [Click here for live demo]()
+- [Click here for live demo]( https://amnaakhtar1213.github.io/404-page/)
 
 ----------------------------
 
